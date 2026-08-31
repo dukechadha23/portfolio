@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Add your final sitemap URL here after choosing your GitHub Pages/custom domain.
-# Sitemap: https://YOUR-USERNAME.github.io/duke-chadha-portfolio/sitemap.xml
+Sitemap: https://dukechadha23.github.io/portfolio/sitemap.xml
